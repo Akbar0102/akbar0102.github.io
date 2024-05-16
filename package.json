@@ -36,7 +36,7 @@
     "vuex": "^4.0.0",
     "webpack": "^4.39.3"
   },
-  "homepage": "https://mazipan.github.io/vue-google-adsense/",
+  "homepage": "https://akbar0102.github.io/vue-google-adsense/",
   "license": "MIT",
   "dependencies": {
     "@popperjs/core": "^2.10.2",
